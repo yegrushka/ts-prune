@@ -1,1 +1,1 @@
-export { KualaOrLumpur } from './E';
+export * from './E';
